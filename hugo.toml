@@ -1,0 +1,8 @@
+baseURL = 'https://niutian.net/'
+languageCode = 'zh-cn'
+title = 'TNT'
+theme = ["PaperMod"]
+
+[params]
+defaultTheme = "auto"
+subtitle = "正是一年春好处"

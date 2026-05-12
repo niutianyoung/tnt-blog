@@ -1,0 +1,4 @@
+/* 正文段落首行缩进 2 个汉字 */
+.post-content p {
+  text-indent: 2em;
+}
