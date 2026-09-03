@@ -1,5 +1,5 @@
 baseURL = 'https://niutian.net/'
-languageCode = 'zh-cn'
+Language.Locale = 'zh-cn'
 title = 'TNT'
 theme = ["PaperMod"]
 
